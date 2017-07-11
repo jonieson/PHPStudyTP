@@ -1,0 +1,182 @@
+[ 2017-04-01T15:23:53+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.006987s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000291s ]
+
+[ 2017-04-01T15:37:32+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001744s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000268s ]
+
+[ 2017-04-01T16:13:10+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000053s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002033s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000289s ]
+
+[ 2017-04-01T16:14:08+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002292s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000384s ]
+
+[ 2017-04-01T16:26:25+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002558s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000419s ]
+
+[ 2017-04-01T16:27:10+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.003330s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000488s ]
+
+[ 2017-04-01T16:28:42+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002956s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000276s ]
+
+[ 2017-04-01T16:29:37+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000064s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002139s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000453s ]
+
+[ 2017-04-01T16:30:36+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001682s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000261s ]
+
+[ 2017-04-01T16:31:14+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002058s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000389s ]
+
+[ 2017-04-01T16:47:30+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000105s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001949s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000310s ]
+
+[ 2017-04-01T16:48:05+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001982s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000309s ]
+
+[ 2017-04-01T17:03:20+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002157s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000314s ]
+
+[ 2017-04-01T17:04:03+08:00 ] 192.168.2.134 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000054s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001957s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000314s ]
+

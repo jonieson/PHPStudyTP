@@ -1,0 +1,937 @@
+[ 2017-03-30T18:03:23+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-03-30T18:03:28+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:04:25+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001473s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'ww' ) LIMIT 1   [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index: pwd /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 78 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-03-30T18:07:23+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001509s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'ww' ) LIMIT 1   [ RunTime:0.000303s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 78 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-30T18:08:44+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001494s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'ww' ) LIMIT 1   [ RunTime:0.000265s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-30T18:09:18+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001351s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000213s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 77 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-03-30T18:09:46+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001350s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-03-30T18:10:19+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001383s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-03-30T18:10:33+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-03-30T18:10:43+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:11:00+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-03-30T18:11:10+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000023s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001467s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2017-03-30T18:11:49+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 74 行.
+
+[ 2017-03-30T18:12:51+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 74 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2017-03-30T18:13:16+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 74 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-03-30T18:20:14+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001355s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000212s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2017-03-30T18:21:18+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001391s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000178s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-30T18:22:05+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.004685s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000243s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:22:06+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005879s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000253s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:22:06+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005877s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000239s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-03-30T18:22:07+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001260s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000202s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-03-30T18:22:07+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001243s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000208s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-03-30T18:22:07+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000020s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001254s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000201s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-03-30T18:22:07+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000099s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001221s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000198s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-03-30T18:22:07+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000023s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001283s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000200s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-03-30T18:22:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001321s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000213s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-03-30T18:22:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001220s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000174s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-03-30T18:22:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000019s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001630s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000235s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-30T18:22:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001251s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000168s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-03-30T18:22:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000023s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001253s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000210s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:23:13+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2017-03-30T18:23:38+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T18:27:35+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-03-30T18:27:42+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist?username=ww&pwd=1234
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+
+[ 2017-03-30T18:28:08+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-03-30T18:28:21+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2017-03-30T18:28:32+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-03-30T18:29:12+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001710s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000235s ]
+SQL: INSERT INTO `user_info` (`userName`,`passward`,`registTime`) VALUES ('wwwwww','12344','1657') [ RunTime:0.006937s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000278s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-03-30T18:30:11+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002143s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: pwd /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 80 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-03-30T18:31:33+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001376s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000268s ]
+
+[ 2017-03-30T18:32:13+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001450s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000289s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 80 行.
+
+[ 2017-03-30T18:32:18+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001367s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000272s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 80 行.
+
+[ 2017-03-30T18:32:54+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001592s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'wwwwww' ) LIMIT 1   [ RunTime:0.000265s ]
+
+[ 2017-03-30T19:05:42+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001804s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000244s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 79 行.
+
+[ 2017-03-30T19:06:02+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001807s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000240s ]
+
+[ 2017-03-30T19:06:47+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001627s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000233s ]
+
+[ 2017-03-30T19:24:19+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-03-30T19:26:32+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-30T19:32:54+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-30T19:33:58+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-03-30T19:52:20+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001894s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000068s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.014602s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.005431s ]
+
+[ 2017-03-30T19:55:28+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2017-03-30T19:57:02+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-03-30T19:59:17+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-03-30T20:02:13+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-03-30T20:04:53+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-03-30T20:06:07+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-03-30T20:12:41+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-03-30T20:20:38+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-03-30T20:22:52+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-03-30T20:24:15+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-03-30T20:25:10+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000023s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001812s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000216s ]
+
+[ 2017-03-30T20:26:34+08:00 ] 192.168.2.132 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001519s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000193s ]
+

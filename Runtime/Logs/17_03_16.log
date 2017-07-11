@@ -1,0 +1,381 @@
+[ 2017-03-16T14:52:52+08:00 ] ::1 /project/FirstDemo/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-03-16T14:52:57+08:00 ] ::1 /project/FirstDemo/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+
+[ 2017-03-16T14:53:07+08:00 ] ::1 /project/FirstDemo/index.php/home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-03-16T14:54:36+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001806s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000282s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-16T14:59:50+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005926s ]
+SQL: SELECT `userName` FROM `user_info` LIMIT 1   [ RunTime:0.000263s ]
+
+[ 2017-03-16T15:00:12+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.002040s ]
+SQL: SELECT `userName` FROM `user_info` LIMIT 1   [ RunTime:0.000282s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, string given /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 24 行.
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-03-16T15:04:04+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001924s ]
+SQL: SELECT `userName` FROM `user_info` LIMIT 1   [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-03-16T15:05:50+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.006205s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000265s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-03-16T15:08:24+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001602s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000215s ]
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Array to string conversion /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: isin /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 28 行.
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-03-16T15:09:04+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001737s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: isin /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 28 行.
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-03-16T15:13:01+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005700s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-03-16T15:13:17+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001452s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-03-16T15:15:05+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001357s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-03-16T15:39:09+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001252s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000214s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/AMPPS/www/project/FirstDemo/Home/Controller/LoginController.class.php 第 25 行.
+SQL: INSERT INTO `user_info` (`userName`,`passward`) VALUES ('hahah','12344') [ RunTime:0.002859s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000365s ]
+SQL: SELECT * FROM `user_info` WHERE ( userName＝hahah ) LIMIT 1   [ RunTime:0.000254s ]
+ERR: 1054:Unknown column 'userName＝hahah' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `user_info` WHERE ( userName＝hahah ) LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-03-16T15:40:58+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005970s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000244s ]
+SQL: INSERT INTO `user_info` (`userName`,`passward`) VALUES ('ww','12344') [ RunTime:0.000444s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000250s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'ww' ) LIMIT 1   [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-03-16T15:41:25+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.003396s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-03-16T15:43:29+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-03-16T15:43:45+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001334s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-03-16T15:43:52+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/regist
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000022s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001759s ]
+SQL: SELECT `userName` FROM `user_info`  [ RunTime:0.000256s ]
+SQL: INSERT INTO `user_info` (`userName`,`passward`) VALUES ('ww12','23244334') [ RunTime:0.000478s ]
+SQL: SELECT * FROM `user_info`  [ RunTime:0.000233s ]
+SQL: SELECT * FROM `user_info` WHERE ( `userName` = 'ww12' ) LIMIT 1   [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-03-16T17:51:55+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/comments
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001659s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-03-16T17:52:12+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/comments
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.005575s ]
+SQL: SELECT * FROM `user_info` LIMIT 1   [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-03-16T18:07:40+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/comments
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001290s ]
+SQL: SELECT * FROM `user_info` ORDER BY id LIMIT 1   [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-03-16T18:08:35+08:00 ] ::1 /project/FirstDemo/index.php/Home/login/comments
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user_info` [ RunTime:0.001620s ]
+SQL: SELECT * FROM `user_info` ORDER BY id LIMIT 10   [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
